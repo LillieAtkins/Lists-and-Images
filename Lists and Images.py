@@ -1,10 +1,3 @@
-"""
-CS101
-HW8
-Lillie Atkins
-Lab X
-November 15, 2017
-"""
 
 def power(L, exponent):
     """
